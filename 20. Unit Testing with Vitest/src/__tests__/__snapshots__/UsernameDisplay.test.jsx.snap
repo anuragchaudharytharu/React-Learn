@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`UsernameDisplay > should render username 1`] = `
+<div>
+  <div>
+    <span>
+      ansonthedev
+    </span>
+    <h1>
+      ansonthedev
+    </h1>
+  </div>
+</div>
+`;
